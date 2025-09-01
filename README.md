@@ -7,29 +7,29 @@
 
 ---
 
-### 🌟 About Me  
+###  About Me
 🎨 Passionate about crafting **aesthetic and user-friendly digital experiences**  
 📐 Skilled in **Figma, Wireframing, and Visual Hierarchy**  
-🚀 Currently exploring **prototyping & layout design**  
-💡 Believe in *“Design is intelligence made visible.”*  
+🚀 Currently exploring **Prototyping & Layout Design**  
+💡 Believe in *“Design is intelligence made visible.”*
 
 ---
 
-### 🛠️ Tools & Skills  
+###  Tools & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,vscode,github" />
 </p>
 
 ---
 
-### 💼 Projects  
+###  Projects
 - **Vyokaza (E-Commerce UI/UX Concept)**  
 - **Weather App (UI Design)**  
 
 
 ---
 
-### 🌐 Connect with Me  
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mahak-sen-b82364252"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mahaksen1406@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
